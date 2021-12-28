@@ -32,3 +32,15 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# gh-pages
+/pages
+/components
+/public
+/styles
+.eslintrc.json
+next.config.js
+package.json
+package-lock.json
+postcss.config.js
+tailwind.config.js
