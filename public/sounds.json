@@ -2,61 +2,73 @@
   {
     "id": "1",
     "title": "Saracule",
-    "fileName": "saracule.mp3"
+    "fileName": "saracule.mp3",
+    "source": "https://www.youtube.com/watch?v=ySlikFRu818"
   },
   {
     "id": "2",
     "title": "Nu prea e de munca",
-    "fileName": "nu-prea-e-de-munca.mp3"
+    "fileName": "nu-prea-e-de-munca.mp3",
+    "source": "https://www.youtube.com/watch?v=ySlikFRu818"
   },
   {
     "id": "3",
     "title": "Aia e",
-    "fileName": "aia-e.m4a"
+    "fileName": "aia-e.m4a",
+    "source": "https://www.youtube.com/watch?v=ySlikFRu818"
   },
   {
     "id": "4",
     "title": "Vorbeau Daca",
-    "fileName": "vorbeau-daca.mp3"
+    "fileName": "vorbeau-daca.mp3",
+    "source": "https://www.youtube.com/watch?v=ySlikFRu818"
   },
   {
     "id": "5",
     "title": "Compatibile",
-    "fileName": "compatibile.mp3"
+    "fileName": "compatibile.mp3",
+    "source": "https://www.youtube.com/watch?v=ySlikFRu818"
   },
   {
     "id": "6",
     "title": "Valeu",
-    "fileName": "valeu-si-am-dat-ok.mp3"
+    "fileName": "valeu-si-am-dat-ok.mp3",
+    "source": "https://www.youtube.com/watch?v=ySlikFRu818"
   },
   {
     "id": "7",
     "title": "Fiecare parerea lui",
-    "fileName": "fiecare-parerea-lui.mp3"
+    "fileName": "fiecare-parerea-lui.mp3",
+    "source": "https://www.youtube.com/watch?v=UiV0pgz68N4"
   },
   {
     "id": "8",
     "title": "Jur pe dolar",
-    "fileName": "jur-pe-dolar.mp3"
+    "fileName": "jur-pe-dolar.mp3",
+    "source": "https://www.youtube.com/watch?v=ySlikFRu818"
   },
   {
     "id": "9",
     "title": "Costelus",
-    "fileName": "motto.mp3"
+    "fileName": "motto.mp3",
+    "source": "https://www.youtube.com/watch?v=D2sjxxoOk0I"
   },
   {
     "id": "10",
     "title": "Scuip si ies, atat",
-    "fileName": "scuip-si-ies.mp3"
+    "fileName": "scuip-si-ies.mp3",
+    "source": "https://www.youtube.com/watch?v=ZrnkiEROcNE"
   },
   {
     "id": "11",
     "title": "Te pup",
-    "fileName": "te-pup.mp3"
-  }
+    "fileName": "te-pup.mp3",
+    "source": "https://www.youtube.com/watch?v=beqr89l3S34"
+  },
   {
     "id": "12",
     "title": "E gratis?",
-    "fileName": "doamne-e-gratis.mp3"
+    "fileName": "doamna-e-gratis.mp3",
+    "source": "https://www.youtube.com/watch?v=iTtsLWhLXps"
   }
 ]
