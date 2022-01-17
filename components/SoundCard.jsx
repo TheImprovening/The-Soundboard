@@ -17,14 +17,16 @@ export class SoundCard extends React.Component {
           playerId={this.props.cardData.id}
         ></Player>
         {this.props.cardData.source && (
-          <a
-            href={this.props.cardData.source}
-            target="_blank"
-            className="text-sm text-gray-500 ml-auto"
-            rel="noreferrer"
-          >
-            source
-          </a>
+          <div className="flex justify-end">
+            <a
+              href={this.props.cardData.source}
+              target="_blank"
+              className="text-sm text-gray-500 ml-auto"
+              rel="noreferrer"
+            >
+              source
+            </a>
+          </div>
         )}
       </div>
     );
