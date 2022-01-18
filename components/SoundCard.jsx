@@ -13,6 +13,7 @@ export class SoundCard extends React.Component {
       <div className="bg-white shadow-md p-6 m-2 rounded-lg h-48">
         <h1 className="text-2xl font-bold">{this.props.cardData.title}</h1>
         <Player
+          startPlaying={this.props.activeSound === this.props.cardData.id}
           media={this.props.cardData.fileName}
           playerId={this.props.cardData.id}
         ></Player>

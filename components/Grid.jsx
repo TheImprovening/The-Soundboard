@@ -21,7 +21,8 @@ export class Grid extends Component {
                                     .filter((_, cardIdx) => cardIdx % 3 === colIdx)
                                     .map((cardData, cardIdx) =>
                                         <SoundCard key={`${colIdx}-${cardIdx}`}
-                                            cardData={cardData}>
+                                            cardData={cardData}
+                                            activeSound={this.props.activeSound}>
                                         </SoundCard>
                                     )
                             }
