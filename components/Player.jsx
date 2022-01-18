@@ -70,7 +70,8 @@ export class Player extends Component {
                    onTimeUpdate={this.onTimeUpdate}
                    onLoadedData={this.onLoadedData}
                    src={this.props.media}
-                   loop={false}>
+                   loop={false}
+                   autoPlay={this.props.startPlaying}>
             </audio>
             <div className='flex items-center mt-4'>
                 <button className='bg-slate-200 p-3 rounded-full' onClick={this.play}>
@@ -98,4 +99,5 @@ export class Player extends Component {
             </>
         )
     }
+    
 }
